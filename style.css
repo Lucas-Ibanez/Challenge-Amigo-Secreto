@@ -160,3 +160,7 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
+#botaoreiniciar {
+  background: #4B69FD;
+}
