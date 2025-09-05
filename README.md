@@ -40,6 +40,7 @@ O usuário pode adicionar nomes a uma lista, sortear um participante de forma al
 
    ┗ 📜 README.md
 
+---
 
 ## 📷 Demonstração
 <img width="1587" height="778" alt="image" src="https://github.com/user-attachments/assets/bda1e9d2-7b5a-4e96-819a-f7f58da4392e" />
